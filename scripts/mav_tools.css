@@ -1,0 +1,17 @@
+.flight_modes_label {
+    text-style: bold;
+    margin-right: 1;
+}
+
+Horizontal {
+    height: 3;
+}
+
+FlightModesTitle {
+    height: 1;
+}
+
+ArmingState {
+    height: 1;
+}
+
